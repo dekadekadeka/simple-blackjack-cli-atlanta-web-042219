@@ -24,6 +24,7 @@ end
 
 def end_game
   # code #end_game here
+  puts "Sorry! Your final score was #{card_total}. Have a nice day!"
 end
 
 def initial_round
